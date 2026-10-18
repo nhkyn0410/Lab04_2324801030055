@@ -85,6 +85,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DashboardService.Api", "Das
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DashboardService.Test", "DashboardService.Test\DashboardService.Test.csproj", "{B2D69F5E-F1E2-4DE1-A628-E1CCEA1E0292}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PricingService.IntegrationTest", "PricingService.IntegrationTest\PricingService.IntegrationTest.csproj", "{BEC5B505-FE8D-43C4-9870-297C2F8E7C69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -443,6 +445,18 @@ Global
 		{B2D69F5E-F1E2-4DE1-A628-E1CCEA1E0292}.Release|x64.Build.0 = Release|Any CPU
 		{B2D69F5E-F1E2-4DE1-A628-E1CCEA1E0292}.Release|x86.ActiveCfg = Release|Any CPU
 		{B2D69F5E-F1E2-4DE1-A628-E1CCEA1E0292}.Release|x86.Build.0 = Release|Any CPU
+		{BEC5B505-FE8D-43C4-9870-297C2F8E7C69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEC5B505-FE8D-43C4-9870-297C2F8E7C69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEC5B505-FE8D-43C4-9870-297C2F8E7C69}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{BEC5B505-FE8D-43C4-9870-297C2F8E7C69}.Debug|x64.Build.0 = Debug|Any CPU
+		{BEC5B505-FE8D-43C4-9870-297C2F8E7C69}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{BEC5B505-FE8D-43C4-9870-297C2F8E7C69}.Debug|x86.Build.0 = Debug|Any CPU
+		{BEC5B505-FE8D-43C4-9870-297C2F8E7C69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEC5B505-FE8D-43C4-9870-297C2F8E7C69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEC5B505-FE8D-43C4-9870-297C2F8E7C69}.Release|x64.ActiveCfg = Release|Any CPU
+		{BEC5B505-FE8D-43C4-9870-297C2F8E7C69}.Release|x64.Build.0 = Release|Any CPU
+		{BEC5B505-FE8D-43C4-9870-297C2F8E7C69}.Release|x86.ActiveCfg = Release|Any CPU
+		{BEC5B505-FE8D-43C4-9870-297C2F8E7C69}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -486,5 +500,6 @@ Global
 		{332A68CF-AE6E-4CB3-8784-B538D401947B} = {3F71BEB0-01F5-17CB-6346-A2CC851A62EC}
 		{2C5EF8CC-6495-4464-A7CF-16014F3D04BA} = {3F71BEB0-01F5-17CB-6346-A2CC851A62EC}
 		{B2D69F5E-F1E2-4DE1-A628-E1CCEA1E0292} = {3F71BEB0-01F5-17CB-6346-A2CC851A62EC}
+		{BEC5B505-FE8D-43C4-9870-297C2F8E7C69} = {493E710F-E8C5-EB71-BD10-2DF2A771875D}
 	EndGlobalSection
 EndGlobal
